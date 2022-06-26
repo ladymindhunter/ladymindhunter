@@ -1,5 +1,5 @@
 ### :zap: GitHub Stats
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/konerjonlar?cardType=github&theme=tokyonight&Ring=1A19FF)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/ladymindhunter?cardType=github&theme=tokyonight&Ring=1A19FF)](https://git.io/awesome-stats-card)
 
 ### My Challanges
 
