@@ -41,11 +41,11 @@
 <br>
   
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=konerjonlar&show_icons=true&theme=dark&locale=en&layout=compact"/>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ladymindhunter&show_icons=true&theme=dark&locale=en&layout=compact"/>
 
 
-[codewars]: https://www.codewars.com/users/konerjonlar
-[hackerrank]: https://www.hackerrank.com/orhancansu98
-[stackoverflow]: https://stackoverflow.com/users/15897604/konerjonlar
-[gmail]: mailto:orhancansu98@gmail.com
-[in]: https://www.linkedin.com/in/orhan-cansu/
+[codewars]: https://www.codewars.com/users/
+[hackerrank]: https://www.hackerrank.com/gzdbyhn
+[stackoverflow]: https://stackoverflow.com/users/15897604/
+[gmail]: mailto:fgjhgjhj@gmail.com
+[in]: https://www.linkedin.com/in/gozdebayhan/
