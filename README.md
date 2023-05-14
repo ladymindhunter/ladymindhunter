@@ -29,9 +29,7 @@
 <br> 
 <br>   
 
-### Framework Stack  
 
-<img align="left" src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray" />
 
 
 <br>
